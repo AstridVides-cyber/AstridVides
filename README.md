@@ -25,7 +25,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 -  🍕 &nbsp; Travelling, meetups & tech events 
 -  🚀 &nbsp; I'm currently learning Full Stack Web Development 
 -  :computer: &nbsp; Most written code line console.log("hello world"); 
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AstridVides)
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AstridVides-cyber)
 -  📝 &nbsp; Checkout [my Resume](https://drive.google.com/file/d/1O28EJwrZn38accOZB-Nc2bmNpoHPvafW/view?usp=sharing)
 &nbsp; &nbsp; &nbsp;
 
@@ -39,13 +39,13 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 > Tools, languages, and other things that I like to work with 
 
 ### 💻 Languages
-[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/AstridVides)
+[![JavaScript, TypeScript, Python, Java, C++, C, C#, Kotlin](https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,kotlin)](https://github.com/AstridVides-cyber)
 
 ### 🎨 Frontend
-[![HTML, CSS, React,TailwindCSS,Vite](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://github.com/AstridVides)
+[![HTML, CSS, React,TailwindCSS,Vite](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://github.com/AstridVides-cyber)
 
 ### ⚙️ Backend & Frameworks
-[![Node.js, Express, NestJS](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/AstridVides)
+[![Node.js, Express, NestJS](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/AstridVides-cyber)
 
 ### 🗄️ Databases
 [![MongoDB, PostgreSQL, MySQL, Oracle](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](#)
@@ -59,20 +59,20 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 
 
 ### ☁️ Cloud & Service
-[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/AstridVides)
+[![AWS, GCP, Firebase, Vercel](https://skillicons.dev/icons?i=aws,gcp,firebase,vercel)](https://github.com/AstridVides-cyber)
 
 ### 📦 Package Manager
-[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/AstridVides)
+[![npm, yarn](https://skillicons.dev/icons?i=npm,yarn)](https://github.com/AstridVides-cyber)
 
 ### 🧪 Testing
-[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/AstridVides)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://github.com/AstridVides-cyber)
 
 ### 🔧 Tools & DevOps
-[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/AstridVides)
+[![Git, GitHub, Docker, Linux, Powershell, Nginx](https://skillicons.dev/icons?i=git,github,docker,linux,powershell,nginx)](https://github.com/AstridVides-cyber)
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 ### 🎯 IDEs
-[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/AstridVides)
+[![VSCode, IntelliJ, Android Studio](https://skillicons.dev/icons?i=vscode,idea,androidstudio)](https://github.com/AstridVides-cyber)
 
 ### 🎨 Design & Testing APIs
 [![Figma, Photoshop, Postman, Markdown](https://skillicons.dev/icons?i=figma,ps,postman,md)](#)
@@ -82,14 +82,13 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="AstridVides's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AstridVides&theme=tokyonight&hide_border=true"/>
+    <img alt="AstridVides-cyber's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AstridVides-cyber&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AstridVides&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AstridVides's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides-cyber&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides-cyber=tokyonight&hide_border=true" alt="AstridVides-cyber's stats"/>
 </p>
 
 <div align="center">
