@@ -77,20 +77,19 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ### 🎨 Design & Testing APIs
 [![Figma, Photoshop, Postman, Markdown](https://skillicons.dev/icons?i=figma,ps,postman,md)](#)
 <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" /> &nbsp;
----
 
-### ☄️ Github Streaks:
+## ☄️ Github Streaks:
 
-<p align="center">
-    <img alt="AstridVides's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AstridVides-cyber&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AstridVides-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-### ⚡ Github Stats:
+## ⚡ Github Stats:
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides-cyber&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides's stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AstridVides-cyber&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="AstridVides's stats"/>
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AstridVides-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AstridVides-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
 
 <div align="center">
