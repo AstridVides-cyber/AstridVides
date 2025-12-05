@@ -88,7 +88,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 ### ⚡ Github Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides-cyber&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides-cyber=tokyonight&hide_border=true" alt="AstridVides-cyber's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AstridVides-cyber&show_icons=true&hide_border=true&theme=tokyonight" alt="AstridVides-cyber =tokyonight&hide_border=true" alt="AstridVides-cyber's stats"/>
 </p>
 
 <div align="center">
